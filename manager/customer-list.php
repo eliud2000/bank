@@ -61,10 +61,8 @@ checkLogin();
             }
           ?>
             
-            <li><a class="nav-link scrollto" href="../index.php#services">Services</a></li>
-            <li><a class="nav-link scrollto " href="../index.php#portfolio">Portfolio</a></li>
-            <li><a class="nav-link scrollto" href="../index.php#team">Team</a></li>
-            <li><a class="nav-link scrollto" href="../backend/logout.php">Se deconnecter</a></li>
+       
+            <li><a class="nav-link scrollto" href="../backend/logout.php">Deconnexion</a></li>
           </ul>
           <i class="bi bi-list mobile-nav-toggle"></i>
         </nav><!-- .navbar -->

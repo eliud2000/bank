@@ -40,12 +40,10 @@ checkLogin();
   
         <nav id="navbar" class="navbar">
           <ul>
-          <li><a class="nav-link scrollto active" href="#hero">Acceuil</a></li>
-          <li><a class="nav-link scrollto" href="#about">A propos</a></li>
-          <!--<li><a class="nav-link scrollto" href="#services">Notices</a></li>-->
-          <li><a class="nav-link scrollto" href="#team">Equipe</a></li>      
-          <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
-            <li><a class="nav-link scrollto" href="../backend/logout.php">Se deconnecter</a></li>
+          <li><a class="nav-link scrollto " href="../index.php">Accueil</a></li>
+            <li><a class="nav-link scrollto" href="manager-dashboard.php">Dashboard</a></li>
+       
+            <li><a class="nav-link scrollto" href="../backend/logout.php">Deconnexion</a></li>
           </ul>
           <i class="bi bi-list mobile-nav-toggle"></i>
         </nav><!-- .navbar -->

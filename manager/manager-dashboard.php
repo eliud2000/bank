@@ -55,11 +55,11 @@ require_once("../backend/connection.php");
 
       <nav id="navbar" class="navbar">
         <ul>
-        <li><a class="nav-link scrollto active" href="#hero">Acceuil</a></li>
-          <li><a class="nav-link scrollto" href="#about">A propos</a></li>
+       
+          <li><a class="nav-link scrollto" href="customer-list.php">Liste des Clients</a></li>
+          <li><a class="nav-link scrollto" href="employee-list.php">Liste des Employés </a></li>
+          <li><a class="nav-link scrollto " href="manager-analytics.php">Analyse des statistiques</a></li>
           <!--<li><a class="nav-link scrollto" href="#services">Notices</a></li>-->
-          <li><a class="nav-link scrollto" href="#team">Equipe</a></li>      
-          <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
